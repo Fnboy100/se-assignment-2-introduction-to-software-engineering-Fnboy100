@@ -23,7 +23,6 @@ Here are some key ways in which software engineering differs from traditional pr
 
 5. Documentation: Software engineering involves thorough documentation of the software design, code, and user manuals to ensure that the software can be maintained and understood by others. Traditional programming may not always prioritize documentation.
 
-In summary, while traditional programming focuses on writing code to solve specific problems, software engineering is a more comprehensive approach that involves the entire software development lifecycle, including planning, design, testing, and maintenance.
 
 Software Development Life Cycle (SDLC):
 
